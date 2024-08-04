@@ -12,7 +12,7 @@ const NoResults = () => {
       </p>
 
       <Button className="w-fit p-6 bg-[#2457C2]" asChild>
-        <Link href={"/"}>Retourner à l'accueil</Link>
+        <Link href={"/"}>Retourner à l&#39;accueil</Link>
       </Button>
     </div>
   );

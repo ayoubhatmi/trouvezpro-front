@@ -16,7 +16,7 @@ const page = () => {
         <h2 className="text-xl font-semibold">Éditeur du site :</h2>
         <p>
           <br />
-          [Adresse de l'entreprise]
+          [Adresse de l&#39;entreprise]
           <br />
           [Numéro de téléphone]
           <br />
@@ -34,11 +34,11 @@ const page = () => {
         </p>
         <h2>Hébergement du site :</h2>
         <p>
-          [Nom de l'hébergeur]
+          [Nom de l&#39;hébergeur]
           <br />
-          [Adresse de l'hébergeur]
+          [Adresse de l&#39;hébergeur]
           <br />
-          [Numéro de téléphone de l'hébergeur]
+          [Numéro de téléphone de l&#39;hébergeur]
         </p>
         <h2 className="text-xl font-semibold">Propriété intellectuelle :</h2>
         <p>
@@ -47,8 +47,8 @@ const page = () => {
           les textes, images, graphiques, logos, vidéos, et tout autre élément,
           est protégé par les lois en vigueur sur la propriété intellectuelle.
           Toute reproduction, distribution, modification, ou utilisation de ces
-          éléments, en tout ou en partie, sans l'autorisation préalable écrite
-          de l'éditeur est interdite.
+          éléments, en tout ou en partie, sans l&#39;autorisation préalable
+          écrite de l&#39;éditeur est interdite.
         </p>
         <h2 className="text-xl font-semibold">Responsabilité :</h2>
         <p>
@@ -63,7 +63,7 @@ const page = () => {
         <p>
           Le site peut contenir des liens vers d’autres sites web. L’éditeur
           n’assume aucune responsabilité quant au contenu de ces sites externes
-          et n'exerce aucun contrôle sur leur contenu.
+          et n&#39;exerce aucun contrôle sur leur contenu.
         </p>
         <h2 className="text-xl font-semibold">
           Protection des données personnelles :

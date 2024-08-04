@@ -13,7 +13,7 @@ const openingTimes = [
 const OpeningTimes = () => {
   return (
     <Card className="flex flex-col gap-4 p-4 w-full">
-      <CardTitle>Horaires d'ouverture</CardTitle>
+      <CardTitle>Horaires d&#39;ouverture</CardTitle>
       <ul className="flex flex-col gap-1">
         {openingTimes.map((info, index) => (
           <li key={index} className="relative flex justify-between">

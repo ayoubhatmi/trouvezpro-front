@@ -8,7 +8,7 @@ const SearchBar = () => {
     <form className="flex gap-4 w-full max-w-2xl relative items-center">
       <Input
         className="w-full h-12 pl-12 text-black" // Add padding to accommodate the icon
-        placeholder="Nom de l'entreprise, ville, Secteur d'activité..."
+        placeholder="Nom de l&#39;entreprise, ville, Secteur d&#39;activité..."
       />
       <div className="absolute right-0 left-4 top-1/2 transform -translate-y-1/2">
         <Search className="text-gray-500" />

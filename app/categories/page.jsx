@@ -137,7 +137,7 @@ const page = () => {
       href: "/categories/ressources-humaines",
     },
     {
-      name: "Technologies de l'Information et Communication",
+      name: "Technologies de l&#39;Information et Communication",
       href: "/categories/tic",
     },
   ];
@@ -150,7 +150,7 @@ const page = () => {
       />
       <div className="flex flex-col py-8 gap-8 w-full items-center">
         {/* <h2 className="sm:text-3xl text-2xl font-bold text-[#03346E] text-center">
-          Explorez les Entreprises par Secteurs d'Activité
+          Explorez les Entreprises par Secteurs d&#39;Activité
         </h2> */}
         <ul className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 w-full">
           {categories.map((category, index) => (

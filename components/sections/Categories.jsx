@@ -53,7 +53,7 @@ const Categories = () => {
   return (
     <section className="flex items-center flex-col py-8 text-center gap-8 w-full ">
       <h2 className="text-3xl font-semibold">
-        Explorez les entreprises par secteurs d'activité
+        Explorez les entreprises par secteurs d&#39;activité
       </h2>
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 w-full mt-4">
         {categories.map((category, index) => (

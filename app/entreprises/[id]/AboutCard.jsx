@@ -8,7 +8,7 @@ import { MapPin } from "lucide-react";
 const AboutCard = () => {
   return (
     <Card className="flex flex-col gap-2 p-4">
-      <CardTitle>À propos de l'entreprise</CardTitle>
+      <CardTitle>À propos de l&#39;entreprise</CardTitle>
       <p>
         Since our founding in 1998, Google has grown by leaps and bounds.
         Starting from two computer science students in a university dorm room,

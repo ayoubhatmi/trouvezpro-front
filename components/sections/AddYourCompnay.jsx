@@ -6,10 +6,10 @@ const AddYourCompnay = () => {
   return (
     <div className="flex flex-col items-center justify-center bg-gradient-to-r from-cyan-500 to-blue-500 mb-12  rounded-md text-center text-white px-4 py-12 gap-4">
       <h2 className="text-3xl font-bold">
-        Professionnel ? Ajoutez Votre Entreprise dès Aujourd'hui !
+        Professionnel ? Ajoutez Votre Entreprise dès Aujourd&#39;hui !
       </h2>
       <p className="text-lg max-w-2xl">
-        Profitez d'une inscription simple, rapide et gratuite pour rejoindre
+        Profitez d&#39;une inscription simple, rapide et gratuite pour rejoindre
         notre annuaire. Augmentez votre visibilité et boostez votre présence en
         ligne 🚀
       </p>

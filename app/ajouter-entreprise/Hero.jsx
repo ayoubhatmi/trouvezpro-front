@@ -13,11 +13,11 @@ const Hero = () => {
                 Ajoutez Votre Entreprise dès Maintenant !
               </h1>
               <p className="mt-2 text-lg">
-                C'est simple, rapide et gratuit. Rejoignez notre annuaire et
+                C&#39;est simple, rapide et gratuit. Rejoignez notre annuaire et
                 augmentez votre visibilité !
               </p>
               <Button className="w-fit p-6 mt-4 bg-[#2457C2]" asChild>
-                <Link href={"/contactez-nous"}>S'inscrire à TrouvezPro</Link>
+                <Link href={"/contactez-nous"}>S&#39;inscrire à TrouvezPro</Link>
               </Button>
             </div>
           </div>
